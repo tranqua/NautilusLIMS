@@ -15,7 +15,7 @@ Documents may be found in the ITMI Share Drive.
 The Basics
 ==========
 ##Loggin In to LIMS
-####Accessing the Application
+###Accessing the Application
 LIMS is a stand-alone application and must be installed on each computer that is used to access the system. Users can find the application by clicking on the Nautilus icon on their desktop. 
 If that’s not available, the application can also be accessed by:
 >Windows XP
@@ -25,11 +25,23 @@ Click on “Start” > Programs > Nautilus > Nautilus
 Click on "Start" > All Programs > Nautilus > Nautilus
 
 ###Configuring Your Database
-The first time you fire up the LIMS application you’ll be prompted to enter Logon Information
+The first time you fire up the LIMS application you’ll be prompted to enter Logon Information  
 ![Logon Information][img_logon]
 
+If the __Server__ field is blank, cancel out of the window
 
+Locate the following icons on the top left of the application and click on the __Server Setup__ icon  
+![][img_serverSU]
 
+A new window will appear, click on the __Import__ icon  
+![][img_serverImport]
 
+Locate the __LIMS_servers.xml__ file in the ITMI Share Drive (LAB\LIMS\Configuration Files). Click __OK__ after locating and selecting the file.
+
+Now you can log in by clicking the __Login__ icon  
+![][img_login]
 
 [img_logon]: http://i.imgur.com/48oaspS.png
+[img_serverSU]: http://i.imgur.com/aOMfWoJ.png
+[img_serverImport]: http://i.imgur.com/w8sSI6X.png
+[img_login]: http://i.imgur.com/6y5eLjc.png
