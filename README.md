@@ -48,6 +48,7 @@ The ITMI Lab Operator Tool bar is a tool bar set that’s made specifically for 
 ![][img_toolbar]
 >If the toolbar is not there by default, users can find it by Right Clicking on the gray bar at the top of the application window and select __ITMI Lab Operator__  
 >![][img_toolbar_LO]
+
 #####Toolbar Overview
 ![][img_toolbar_list]
 __Enhanced Explorer__	The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)  
