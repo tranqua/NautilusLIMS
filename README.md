@@ -1,4 +1,0 @@
-NautilusLIMS
-============
-
-ITMI Nautilus LIMS
