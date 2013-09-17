@@ -41,7 +41,20 @@ Locate the __LIMS_servers.xml__ file in the ITMI Share Drive (LAB\LIMS\Configura
 Now you can log in by clicking the __Login__ icon  
 ![][img_login]
 
+##LIMS Interface
+Nautilus LIMS utilizes a windows based interface for viewing dynamic data entities and navigating through the workflows.
+###Lab Operator Toolbar
+The ITMI Lab Operator Tool bar is a tool bar set that’s made specifically for the lab operators. Upon log-in, the tool bar can be found in the top of the application window.  
+![][img_toolbar]
+>If the toolbar is not there by default, users can find it by Right Clicking on the gray bar at the top of the application window and select __ITMI Lab Operator__  
+>![][img_toolbar_LO]
+
+
 [img_logon]: http://i.imgur.com/48oaspS.png
 [img_serverSU]: http://i.imgur.com/aOMfWoJ.png
 [img_serverImport]: http://i.imgur.com/w8sSI6X.png
 [img_login]: http://i.imgur.com/6y5eLjc.png
+
+[img_toolbar]: http://i.imgur.com/mxO2EJB.png
+[img_toolbar_LO]: http://i.imgur.com/D0vIR55.png
+
