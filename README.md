@@ -48,6 +48,18 @@ The ITMI Lab Operator Tool bar is a tool bar set that’s made specifically for 
 ![][img_toolbar]
 >If the toolbar is not there by default, users can find it by Right Clicking on the gray bar at the top of the application window and select __ITMI Lab Operator__  
 >![][img_toolbar_LO]
+#####Toolbar Overview
+![][img_toolbar_list]
+__Enhanced Explorer__	The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)  
+__Refresh	Refresh__ the data on the screen. Can also be done by keyboard shortcut (F5)  
+__Login Sample__	Opens up the prompt to log in a new sample  
+__Login Plate__	Opens up the prompt to log in a new plate (boxes only)  
+__LM Availability__	Location Management Extension – used to find available slots  
+__LM Find Aliquot__	Location Management Extension – used to locate an aliquot by barcode  
+__LM Find Location__	Location Management Extension – used to locate a specific location in the system by name  
+__LM Find Plate__	Location Management Extension – used to locate a plate by barcode  
+__Location Folder__	Opens up the folder of all the locations in LIMS  
+
 
 
 [img_logon]: http://i.imgur.com/48oaspS.png
@@ -57,4 +69,5 @@ The ITMI Lab Operator Tool bar is a tool bar set that’s made specifically for 
 
 [img_toolbar]: http://i.imgur.com/mxO2EJB.png
 [img_toolbar_LO]: http://i.imgur.com/D0vIR55.png
+[img_toolbar_list]: http://i.imgur.com/r8RkisY.png
 
