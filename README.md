@@ -13,4 +13,6 @@ you're all good to go.
 
 *In short: just download this file and upload it somewhere.*
 
-[Download template &gt;][template]
+Test Button >
+
+<img src = "http://lorempixel.com/400/200/">
