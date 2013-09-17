@@ -32,4 +32,4 @@ The first time you fire up the LIMS application you’ll be prompted to enter Lo
 
 
 
-[img_logon]: http://imgur.com/48oaspS
+[img_logon]: http://i.imgur.com/48oaspS.png
