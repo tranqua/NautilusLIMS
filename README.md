@@ -1,7 +1,16 @@
-NautilusLIMS
-============
+Nautilus LIMS
+=============
+Nautilus is a central laboratory information management system (LIMS) service for Inova Translational Medicine Institute (ITMI) at Inova Health System. The system will facilitate the tracking and management of specimens, laboratory inventories, and reagent ordering; the management of lab and QC data; the acquisition of data directly from instruments; and the exchange of laboratory results data. 
 
-ITMI Nautilus LIMS
+User Guide
+-----------
+The purpose of this user guide document is to provide instruction for ITMI lab operators to complete the necessary tasks for sample management for studies built in Nautilus LIMS
+
+References
+----------
+End-users may reference the following documents for further details on the Nautilus LIMS application and any extensions.
+Documents may be found in the ITMI Share Drive.
+
 
 Getting started
 ---------------
@@ -17,5 +26,3 @@ you're all good to go.
 
 <img src = "http://lorempixel.com/400/200/">
 
-
-[Test Button]: http://google.com
