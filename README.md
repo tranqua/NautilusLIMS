@@ -14,8 +14,8 @@ Documents may be found in the ITMI Share Drive.
 
 The Basics
 ==========
-###Loggin In to LIMS
-#####Accessing the Application
+##Loggin In to LIMS
+####Accessing the Application
 LIMS is a stand-alone application and must be installed on each computer that is used to access the system. Users can find the application by clicking on the Nautilus icon on their desktop. 
 If that’s not available, the application can also be accessed by:
 >Windows XP
@@ -24,7 +24,7 @@ Click on “Start” > Programs > Nautilus > Nautilus
 >Windows 7
 Click on "Start" > All Programs > Nautilus > Nautilus
 
-####Configuring Your Database
+###Configuring Your Database
 The first time you fire up the LIMS application you’ll be prompted to enter Logon Information
 ![Logon Information][img_logon]
 
