@@ -101,6 +101,20 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 6x3 boxes can be stored in a freezer (-80) or in a LN2 freezer.  
 
 ##Processing Kits
+The following kit layouts / contents will be available in Nautilus LIMS for Study 102. Kits should be used according to the samples collected.  
+
+![][img_102_mother_sc]  
+![][img_102_father_sc]  
+![][img_102_nb_stc]  
+![][img_102_sample_wf]  
+![][img_102_tissue_wf]  
+![][img_102_adult_kit_full]  
+![][img_102_adult_kit_bs]  
+![][img_102_adult_kit_u]  
+![][img_102_adult_kit_s]  
+![][img_102_nb_kit_full]  
+![][img_102_nb_kit_b]  
+![][img_102_nb_kit_tissue]  
 
 ##Sample Collection
 ![][img_102_sample_wf]  
@@ -154,6 +168,14 @@ Scan in the barcodes and click OK.
 [img_102_nb_stc]: http://i.imgur.com/hBxu3xJ.png
 [img_102_sample_wf]: http://i.imgur.com/A0v1i6u.png
 [img_102_tissue_wf]: http://i.imgur.com/duwsaTF.png
+[img_102_adult_kit_full]: http://i.imgur.com/Ms5z9i9.png
+[img_102_adult_kit_bs]: http://i.imgur.com/jNWRvQF.png
+[img_102_adult_kit_u]: http://i.imgur.com/C8uKNxA.png
+[img_102_adult_kit_s]: http://i.imgur.com/pEWnx8h.png
+[img_102_nb_kit_full]: http://i.imgur.com/otry2N4.png
+[img_102_nb_kit_b]: http://i.imgur.com/6W5IKUj.png
+[img_102_nb_kit_tissue]: http://i.imgur.com/EflO6tc.png
+
 
 [img_104_build_kit]: http://i.imgur.com/L69pQKt.png
 [img_104_login_kit]: http://i.imgur.com/oK9sYp9.png
