@@ -51,15 +51,6 @@ The ITMI Lab Operator Tool bar is a tool bar set that’s made specifically for 
 
 #####Toolbar Overview
 ![][img_toolbar_list]  
-__Enhanced Explorer__ |	The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)  
-__Refresh__ | Refresh the data on the screen. Can also be done by keyboard shortcut (F5)  
-__Login Sample__ |	Opens up the prompt to log in a new sample  
-__Login Plate__ | Opens up the prompt to log in a new plate (boxes only)  
-__LM Availability__ | Location Management Extension – used to find available slots  
-__LM Find Aliquot__	 | Location Management Extension – used to locate an aliquot by barcode  
-__LM Find Location__ | Location Management Extension – used to locate a specific location in the system by name  
-__LM Find Plate__ | Location Management Extension – used to locate a plate by barcode  
-__Location Folder__ | Opens up the folder of all the locations in LIMS
 
 Toolbar Icon | Description
 --- | ---
@@ -79,6 +70,13 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 
 #Lab Functions
 ##Create Storage Boxes
+Storage boxes can be created using the Plate Login icon ![][img_plate_icon]
+In the Plate Login window, slect from the drop-down menu the storage box you'd like to create for your study and click __OK__.  
+![][img_plate_login_window]  
+A new window will appear, enter the prompted information and click OK to create the box.
+
+NOTE: Storage boxes still need to be moved to the necessary storage locations after creation. 
+
 ##Location Management
 ##Create Storage Location
 
@@ -111,4 +109,7 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 [img_toolbar]: http://i.imgur.com/mxO2EJB.png
 [img_toolbar_LO]: http://i.imgur.com/D0vIR55.png
 [img_toolbar_list]: http://i.imgur.com/r8RkisY.png
+
+[img_plate_icon]: http://i.imgur.com/HBgpPhb.png
+[img_plate_login_window]: http://i.imgur.com/y1feW5E.png
 
