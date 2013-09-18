@@ -75,7 +75,7 @@ td {
 body {
   line-height: 1;
   color: #000;
-  background: #fff;
+  background: #f3f3f3;
 }
 ol,
 ul {
@@ -547,7 +547,7 @@ body.no-literate .content pre > code:hover::-webkit-scrollbar-thumb {
   }
 }
 .header {
-  background: #f3f6fb;
+  background: #DADADA;
   text-shadow: 0 1px 0 rgba(255,255,255,0.5);
   border-bottom: solid 1px #dfe2e7;
   padding: 15px 15px 15px 30px;
