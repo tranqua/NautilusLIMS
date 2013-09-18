@@ -103,11 +103,6 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 ##Processing Kits
 The following kit layouts / contents will be available in Nautilus LIMS for Study 102. Kits should be used according to the samples collected.  
 
-![][img_102_mother_sc]  
-![][img_102_father_sc]  
-![][img_102_nb_stc]  
-![][img_102_sample_wf]  
-![][img_102_tissue_wf]  
 ![][img_102_adult_kit_full]  
 ![][img_102_adult_kit_bs]  
 ![][img_102_adult_kit_u]  
