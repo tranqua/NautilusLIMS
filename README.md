@@ -83,11 +83,11 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 #Study 102
 ##Workflow Overview
 Study 102 has 2 major workflows, Sample Collection and Tissue Collection.
-__Mother Collection Overview__
+__Mother Collection Overview__  
 ![][img_mother_sc]  
-__Father/PFM Collection Overview__
+__Father/PFM Collection Overview__  
 ![][img_father_sc]  
-__Newborn Collection Overview__
+__Newborn Collection Overview__  
 ![][img_nb_stc]  
 
 
