@@ -1,10 +1,6 @@
 Nautilus LIMS User Guide
 =============
 Nautilus is a central laboratory information management system (LIMS) service for Inova Translational Medicine Institute (ITMI) at Inova Health System. The system will facilitate the tracking and management of specimens, laboratory inventories, and reagent ordering; the management of lab and QC data; the acquisition of data directly from instruments; and the exchange of laboratory results data.  
-<form>
-<input type="checkbox">Testing
-<input type="checkbox">Testing 2
-</form>
 
 User Guide Document
 -----------
@@ -106,6 +102,9 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 6x3 boxes can be stored in a freezer (-80) or in a LN2 freezer.  
 
 ##S102 Processing Kits
+Study 102 Kits can be made by the following steps:
+
+
 The following kit layouts / contents will be available in Nautilus LIMS for Study 102. Kits should be used according to the samples collected.  
 
 ![][img_102_adult_kit_full]  
@@ -118,6 +117,21 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 
 ##S102 Sample Collection
 ![][img_102_sample_wf]  
+<form>
+<input type ="checkbox">Locate a Study 102 Aliquot
+<input type ="checkbox">Right Click > Build Plate
+<input type ="checkbox">Select the workflow for the kit you wish to build
+__TESTING NOTES__  
+>Use the following plate workflows for Study 102 testing  
+>Study 102 Adult Kit (Full) v0.2  
+>Study 102 Adult Kit (Blood/Saliva)  
+>Study 102 Adult Kit (Urine)  
+>Study 102 Adult Kit (Saliva)  
+>Study 102 Newborn Samples Kit  
+>Study 102 Newborn (B/S) Samples Kit  
+>Study 102 Newborn Tissue Kit  
+<input type ="checkbox">Fill out the necessary information (plate barcode, location, tube barcodes) when prompted
+</form>
 ##S102 Sample Processing
 
 
