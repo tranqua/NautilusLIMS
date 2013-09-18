@@ -94,6 +94,8 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 ##Workflow Overview
 ##Storage Options
 ##Processing Kits
+Locate any __Study 104__ aliquot in the system using the explorer window. Right Click on the item and navigate to __Build__ > __Plate__
+![][img_build_plate]
 ##Sample Collection
 ##Sample Processing
 ##Sample Storage
@@ -112,4 +114,5 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 
 [img_plate_icon]: http://i.imgur.com/HBgpPhb.png
 [img_plate_login_window]: http://i.imgur.com/y1feW5E.png
+[img_build_plate]: http://i.imgur.com/oecyKpg.png
 
