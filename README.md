@@ -94,15 +94,19 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 ##Workflow Overview
 ##Storage Options
 ##Processing Kits
-Locate any __Study 104__ aliquot in the system using the explorer window. Right Click on the item and navigate to __Build__ > __Plate__
-![][img_build_plate]
+There is only 1 processing kit available for Study 104. The layout and content is as follows:  
+![][img_104_kit]  
+
+Locate any __Study 104__ aliquot in the system using the explorer window. Right Click on the item and navigate to __Build__ > __Plate__  
+![][img_build_plate]  
 The Plate Login window will apprear, select the __Study 104 Kit__ from the dropdown options and click __OK__  
-![][img_104_build_kit]
+![][img_104_build_kit]  
 A new window will appear, prompting you for the __Plate Barcode__ and the __Location ID__  
-![][img_104_login_kit]
+![][img_104_login_kit]  
 After filling out those items, click __OK__ which will then prompt you to scan in the barcodes in this kit.  
-![][img_104_scan_bc]
-Scan in the barcodes and click OK.
+![][img_104_scan_bc]  
+Scan in the barcodes and click OK.  
+
 ##Sample Collection
 ##Sample Processing
 ##Sample Storage
@@ -126,3 +130,4 @@ Scan in the barcodes and click OK.
 [img_104_build_kit]: http://i.imgur.com/L69pQKt.png
 [img_104_login_kit]: http://i.imgur.com/oK9sYp9.png
 [img_104_scan_bc]: http://i.imgur.com/5g0pqMq.png
+[img_104_kit]: http://i.imgur.com/nqfZVXv.png
