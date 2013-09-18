@@ -112,6 +112,8 @@ input {
   font-size: 13px;
   color: #505050;
 }
+tr:nth-child(odd)		{ background-color:#eee; }
+tr:nth-child(even)		{ background-color:#fff; }
 @media (max-width: 480px) /* Mobile */ {
   body,
   td,
