@@ -61,6 +61,11 @@ __LM Find Location__ | Location Management Extension – used to locate a specif
 __LM Find Plate__ | Location Management Extension – used to locate a plate by barcode  
 __Location Folder__ | Opens up the folder of all the locations in LIMS
 
+Toolbar Icon | Description
+--- | ---
+Enhanced Explorer | The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)
+Refresh | Refresh the data on the screen.
+
 ###LIMS Explorer
 
 ###LIMS Entities
@@ -88,10 +93,7 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 ##Sample Processing
 ##Sample Storage
 
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
+
 
 
 [img_logon]: http://i.imgur.com/48oaspS.png
