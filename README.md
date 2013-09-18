@@ -82,8 +82,18 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 
 #Study 102
 ##Workflow Overview
+Study 102 has 2 major workflows, Sample Collection and Tissue Collection.
 ##Storage Options
+Study 102 Aliquots in 2ml tubes can be stored in 10x10 boxes  
+Study 102 PAXgene tubes can be stored in 7x7 boxes  
+Study 102 CryoMold samples can be stored in 6x3 boxs  
+
+10x10 boxes can be stored in *Racks* or *Canes*  in LN2 - there are several options depending on the rack configuration of the storage unit (1x5, 1x10, 1x12, 1x15)  
+7x7 boxes can be stored in incubation areas, or in freezer (-20, -80) shelves  
+6x3 boxes can be stored in a freezer (-80) or in a LN2 freezer.  
+
 ##Processing Kits
+
 ##Sample Collection
 ##Sample Processing
 ##Tissue Collection
