@@ -88,6 +88,11 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 ##Sample Processing
 ##Sample Storage
 
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 
 [img_logon]: http://i.imgur.com/48oaspS.png
 [img_serverSU]: http://i.imgur.com/aOMfWoJ.png
