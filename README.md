@@ -83,6 +83,14 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 #Study 102
 ##Workflow Overview
 Study 102 has 2 major workflows, Sample Collection and Tissue Collection.
+__Mother Collection Overview__
+![][img_mother_sc]  
+__Father/PFM Collection Overview__
+![][img_father_sc]  
+__Newborn Collection Overview__
+![][img_nb_stc]  
+
+
 ##Storage Options
 Study 102 Aliquots in 2ml tubes can be stored in 10x10 boxes  
 Study 102 PAXgene tubes can be stored in 7x7 boxes  
@@ -137,7 +145,14 @@ Scan in the barcodes and click OK.
 [img_plate_login_window]: http://i.imgur.com/y1feW5E.png
 [img_build_plate]: http://i.imgur.com/oecyKpg.png
 
+[img_102_mother_sc]: http://i.imgur.com/WQ0fDR5.png
+[img_102_father_sc]: http://i.imgur.com/W3gPPZZ.png
+[img_102_nb_stc]: http://i.imgur.com/hBxu3xJ.png
+
+
 [img_104_build_kit]: http://i.imgur.com/L69pQKt.png
 [img_104_login_kit]: http://i.imgur.com/oK9sYp9.png
 [img_104_scan_bc]: http://i.imgur.com/5g0pqMq.png
 [img_104_kit]: http://i.imgur.com/nqfZVXv.png
+
+
