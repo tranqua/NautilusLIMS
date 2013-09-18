@@ -59,7 +59,13 @@ __LM Availability__	Location Management Extension – used to find available slo
 __LM Find Aliquot__	Location Management Extension – used to locate an aliquot by barcode  
 __LM Find Location__	Location Management Extension – used to locate a specific location in the system by name  
 __LM Find Plate__	Location Management Extension – used to locate a plate by barcode  
-__Location Folder__	Opens up the folder of all the locations in LIMS  
+__Location Folder__	Opens up the folder of all the locations in LIMS
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 [img_logon]: http://i.imgur.com/48oaspS.png
 [img_serverSU]: http://i.imgur.com/aOMfWoJ.png
