@@ -103,7 +103,10 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 ##Processing Kits
 
 ##Sample Collection
+![][img_102_sample_wf]  
 ##Sample Processing
+![][img_102_tissue_wf]  
+
 ##Tissue Collection
 ##Tissue Processing
 ##Sample/Tissue Storage
@@ -149,6 +152,8 @@ Scan in the barcodes and click OK.
 [img_102_mother_sc]: http://i.imgur.com/WQ0fDR5.png
 [img_102_father_sc]: http://i.imgur.com/W3gPPZZ.png
 [img_102_nb_stc]: http://i.imgur.com/hBxu3xJ.png
+[img_102_sample_wf]: http://i.imgur.com/A0v1i6u.png
+[img_102_tissue_wf]: http://i.imgur.com/duwsaTF.png
 
 [img_104_build_kit]: http://i.imgur.com/L69pQKt.png
 [img_104_login_kit]: http://i.imgur.com/oK9sYp9.png
