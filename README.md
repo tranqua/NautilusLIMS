@@ -65,6 +65,13 @@ Toolbar Icon | Description
 --- | ---
 __Enhanced Explorer__ | The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)
 __Refresh__ | Refresh the data on the screen.
+__Login Sample__ |	Opens up the prompt to log in a new sample
+__Login Plate__ | Opens up the prompt to log in a new plate (boxes only)
+__LM Availability__ | Location Management Extension – used to find available slots
+__LM Find Aliquot__	 | Location Management Extension – used to locate an aliquot by barcode
+__LM Find Location__ | Location Management Extension – used to locate a specific location in the system by name
+__LM Find Plate__ | Location Management Extension – used to locate a plate by barcode
+__Location Folder__ | Opens up the folder of all the locations in LIMS
 
 ###LIMS Explorer
 
