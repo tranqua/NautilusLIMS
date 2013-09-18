@@ -114,12 +114,15 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 ##Sample Collection
 ![][img_102_sample_wf]  
 ##Sample Processing
-![][img_102_tissue_wf]  
+
 
 ##Tissue Collection
+![][img_102_tissue_wf]  
+
 ##Tissue Processing
 ##Sample/Tissue Storage
 ##Recollections
+After a collection event has been documented, if anything happens to the sample/aliquots that results in the need for a recollection. The Lab Operator is expected to follow the current protocol and contact the necessary personnel. The Lab Operator also needs to document the recollection request in Nautilus LIMS.
 
 #Study 104
 ##Workflow Overview
