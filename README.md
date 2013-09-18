@@ -61,16 +61,28 @@ __LM Find Location__ | Location Management Extension – used to locate a specif
 __LM Find Plate__ | Location Management Extension – used to locate a plate by barcode  
 __Location Folder__ | Opens up the folder of all the locations in LIMS
 
+###LIMS Explorer
+
+###LIMS Entities
+
 #Lab Functions
 ##Create Storage Boxes
 ##Location Management
 ##Create Storage Location
 
 #Study 102
+##Workflow Overview
+##Storage Options
+##Processing Kits
+##Sample Collection
+##Sample Processing
+##Tissue Collection
+##Tissue Processing
+##Sample/Tissue Storage
 
 #Study 104
 ##Workflow Overview
-##Storage Kits
+##Storage Options
 ##Processing Kits
 ##Sample Collection
 ##Sample Processing
