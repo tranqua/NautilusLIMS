@@ -65,6 +65,12 @@ __LM Find Plate__ | Location Management Extension – used to locate a plate by 
 __Location Folder__ | Opens up the folder of all the locations in LIMS
 
 ###LIMS Explorer
+Nautilus LIMS utilizes a windows explorer-like interface for navigating around.
+The Explorer can be opened by clicking on the __Enhanced Explorer__ icon ![][img_explorer]  
+Below is an example of the explorer window  
+![][img_explorer_window]
+
+
 
 ###LIMS Entities
 
@@ -191,6 +197,9 @@ Scan in the barcodes and click OK.
 [img_toolbar]: http://i.imgur.com/mxO2EJB.png
 [img_toolbar_LO]: http://i.imgur.com/D0vIR55.png
 [img_toolbar_list]: http://i.imgur.com/r8RkisY.png
+
+[img_explorer]: http://i.imgur.com/UK3MBv8.png
+[img_explorer_window]: http://i.imgur.com/0oKiWjl.png?1
 
 [img_plate_icon]: http://i.imgur.com/HBgpPhb.png
 [img_plate_login_window]: http://i.imgur.com/y1feW5E.png
