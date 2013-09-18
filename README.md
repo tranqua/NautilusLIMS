@@ -114,7 +114,7 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 
 ##S102 Sample Collection
 ![][img_102_sample_wf]  
-##Sample Processing
+##S102 Sample Processing
 
 
 ##S102 Tissue Collection
