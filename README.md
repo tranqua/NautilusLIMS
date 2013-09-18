@@ -81,7 +81,7 @@ NOTE: Storage boxes still need to be moved to the necessary storage locations af
 ##Create Storage Location
 
 #Study 102
-##Workflow Overview
+##S102 Workflow Overview
 Study 102 has 2 major workflows, Sample Collection and Tissue Collection.
 __Mother Collection Overview__  
 ![][img_102_mother_sc]  
@@ -90,8 +90,9 @@ __Father/PFM Collection Overview__
 __Newborn Collection Overview__  
 ![][img_102_nb_stc]  
 
+##S102 Object Identifiers
 
-##Storage Options
+##S102 Storage Options
 Study 102 Aliquots in 2ml tubes can be stored in 10x10 boxes  
 Study 102 PAXgene tubes can be stored in 7x7 boxes  
 Study 102 CryoMold samples can be stored in 6x3 boxs  
@@ -100,7 +101,7 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 7x7 boxes can be stored in incubation areas, or in freezer (-20, -80) shelves  
 6x3 boxes can be stored in a freezer (-80) or in a LN2 freezer.  
 
-##Processing Kits
+##S102 Processing Kits
 The following kit layouts / contents will be available in Nautilus LIMS for Study 102. Kits should be used according to the samples collected.  
 
 ![][img_102_adult_kit_full]  
@@ -111,23 +112,24 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 ![][img_102_nb_kit_b]  
 ![][img_102_nb_kit_tissue]  
 
-##Sample Collection
+##S102 Sample Collection
 ![][img_102_sample_wf]  
 ##Sample Processing
 
 
-##Tissue Collection
+##S102 Tissue Collection
 ![][img_102_tissue_wf]  
 
-##Tissue Processing
-##Sample/Tissue Storage
-##Recollections
+##S102 Tissue Processing
+##S102 Sample/Tissue Storage
+##S102 Recollections
 After a collection event has been documented, if anything happens to the sample/aliquots that results in the need for a recollection. The Lab Operator is expected to follow the current protocol and contact the necessary personnel. The Lab Operator also needs to document the recollection request in Nautilus LIMS.
 
 #Study 104
-##Workflow Overview
-##Storage Options
-##Processing Kits
+##S104 Workflow Overview
+##S104 Storage Options
+##S104 Object Identifiers
+##S104 Processing Kits
 There is only 1 processing kit available for Study 104. The layout and content is as follows:  
 ![][img_104_kit]  
 
@@ -141,9 +143,9 @@ After filling out those items, click __OK__ which will then prompt you to scan i
 ![][img_104_scan_bc]  
 Scan in the barcodes and click OK.  
 
-##Sample Collection
-##Sample Processing
-##Sample Storage
+##S104 Sample Collection
+##S104 Sample Processing
+##S104 Sample Storage
 
 
 
