@@ -63,8 +63,8 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 
 Toolbar Icon | Description
 --- | ---
-Enhanced Explorer | The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)
-Refresh | Refresh the data on the screen.
+__Enhanced Explorer__ | The main interface for browsing LIMS data. More details about the Enhanced Explorer can be found in the Nautilus Configuration Guide (Page 27)
+__Refresh__ | Refresh the data on the screen.
 
 ###LIMS Explorer
 
