@@ -116,22 +116,22 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 ![][img_102_nb_kit_tissue]  
 
 ##S102 Sample Collection
-![][img_102_sample_wf]  
 <form>
 <input type ="checkbox">Locate a Study 102 Aliquot
 <input type ="checkbox">Right Click > Build Plate
-<input type ="checkbox">Select the workflow for the kit you wish to build
-__TESTING NOTES__  
->Use the following plate workflows for Study 102 testing  
->Study 102 Adult Kit (Full) v0.2  
->Study 102 Adult Kit (Blood/Saliva)  
->Study 102 Adult Kit (Urine)  
->Study 102 Adult Kit (Saliva)  
->Study 102 Newborn Samples Kit  
->Study 102 Newborn (B/S) Samples Kit  
->Study 102 Newborn Tissue Kit  
+<input type ="checkbox">Select the workflow for the kit you wish to build  
+__TESTING NOTES__
+>Use the following plate workflows for Study 102 testing
+>Study 102 Adult Kit (Full) v0.2
+>Study 102 Adult Kit (Blood/Saliva)
+>Study 102 Adult Kit (Urine)
+>Study 102 Adult Kit (Saliva)
+>Study 102 Newborn Samples Kit
+>Study 102 Newborn (B/S) Samples Kit
+>Study 102 Newborn Tissue Kit
 <input type ="checkbox">Fill out the necessary information (plate barcode, location, tube barcodes) when prompted
 </form>
+![][img_102_sample_wf]  
 ##S102 Sample Processing
 
 
