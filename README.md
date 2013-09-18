@@ -64,8 +64,17 @@ __Location Folder__ | Opens up the folder of all the locations in LIMS
 #Lab Functions
 ##Create Storage Boxes
 ##Location Management
+##Create Storage Location
 
+#Study 102
 
+#Study 104
+##Workflow Overview
+##Storage Kits
+##Processing Kits
+##Sample Collection
+##Sample Processing
+##Sample Storage
 
 
 [img_logon]: http://i.imgur.com/48oaspS.png
