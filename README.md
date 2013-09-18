@@ -103,6 +103,21 @@ Study 102 CryoMold samples can be stored in 6x3 boxs
 
 ##S102 Processing Kits
 Study 102 Kits can be made by the following steps:
+<form>
+<input type ="checkbox">Locate a Study 102 Aliquot
+<input type ="checkbox">Right Click > Build Plate
+<input type ="checkbox">Select the workflow for the kit you wish to build   
+__TESTING NOTES__
+>Use the following plate workflows for Study 102 testing  
+>Study 102 Adult Kit (Full) v0.2  
+>Study 102 Adult Kit (Blood/Saliva)  
+>Study 102 Adult Kit (Urine)  
+>Study 102 Adult Kit (Saliva)  
+>Study 102 Newborn Samples Kit  
+>Study 102 Newborn (B/S) Samples Kit  
+>Study 102 Newborn Tissue Kit  
+<input type ="checkbox">Fill out the necessary information (plate barcode, location, tube barcodes) when prompted
+</form>
 
 
 The following kit layouts / contents will be available in Nautilus LIMS for Study 102. Kits should be used according to the samples collected.  
@@ -116,20 +131,20 @@ The following kit layouts / contents will be available in Nautilus LIMS for Stud
 ![][img_102_nb_kit_tissue]  
 
 ##S102 Sample Collection
+
 <form>
-<input type ="checkbox">Locate a Study 102 Aliquot
-<input type ="checkbox">Right Click > Build Plate
-<input type ="checkbox">Select the workflow for the kit you wish to build  
+<input type ="checkbox">Click on Login Sample icon to log in a new collection
+
 __TESTING NOTES__
->Use the following plate workflows for Study 102 testing
->Study 102 Adult Kit (Full) v0.2
->Study 102 Adult Kit (Blood/Saliva)
->Study 102 Adult Kit (Urine)
->Study 102 Adult Kit (Saliva)
->Study 102 Newborn Samples Kit
->Study 102 Newborn (B/S) Samples Kit
->Study 102 Newborn Tissue Kit
-<input type ="checkbox">Fill out the necessary information (plate barcode, location, tube barcodes) when prompted
+>Use the following sample workflows for Study 102 testing  
+>Study 102 Sample Collection  
+>Study 102 Tissue Collection  
+<input type ="checkbox">Scan in subject ID, collection time point, and collection facility
+<input type ="checkbox">Locate the unreceived sample collection, Right Click > Events > Received By Lab
+<input type ="checkbox">Indicate Arrival Condition of collection set
+<input type ="checkbox">Enter collection information & scan in any barcodes if prompted (PAXgene)
+>If a sample was not collected - make sure to uncheck the __Collected__ box  
+>You can move PAXgene to incubation box any time after this  
 </form>
 ![][img_102_sample_wf]  
 ##S102 Sample Processing
